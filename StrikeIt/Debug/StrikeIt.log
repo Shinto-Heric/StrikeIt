@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\vb\strikeit\strikeit\main.cpp(145): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\vb\strikeit\strikeit\main.cpp(150): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\vb\strikeit\strikeit\main.cpp(154): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\vb\strikeit\strikeit\main.cpp(159): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  StrikeIt.vcxproj -> E:\VB\StrikeIt\Debug\StrikeIt.exe
+  StrikeIt.vcxproj -> E:\VB\StrikeIt\Debug\StrikeIt.pdb (Full PDB)
