@@ -175,21 +175,15 @@ sf::Sound hit;
 int pad1Score = 0; //Score for pad1
 int pad2Score = 0; //Score for pad2
 
-//C++ program entry point+
-
-
-
-
 int main()
 {
 	//Creating the window
-	sf::RenderWindow window(sf::VideoMode(SCREEN_WIDTH, SCREEN_HEIGHT), "StrikeIt");
+	sf::RenderWindow window(sf::VideoMode(SCREEN_WIDTH, SCREEN_HEIGHT), "StrikeIt",sf::Style::Titlebar | sf::Style::Close);
 
 	//Settign the framerate limit to 60 FPS
 	window.setVerticalSyncEnabled(true);
 	window.setKeyRepeatEnabled(false);
 
-	//Variable that keeps the game loop running
 
 	//Event object holding all events
 	sf::Event event;
