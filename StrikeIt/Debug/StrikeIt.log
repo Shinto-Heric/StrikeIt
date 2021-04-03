@@ -1,7 +1,9 @@
 ﻿  main.cpp
-e:\vb\strikeit\strikeit\main.cpp(145): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-e:\vb\strikeit\strikeit\main.cpp(150): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-e:\vb\strikeit\strikeit\main.cpp(154): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-e:\vb\strikeit\strikeit\main.cpp(159): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  StrikeIt.vcxproj -> E:\VB\StrikeIt\Debug\StrikeIt.exe
-  StrikeIt.vcxproj -> E:\VB\StrikeIt\Debug\StrikeIt.pdb (Full PDB)
+  HandleGameplay.cpp
+e:\vb\git\strikeit\strikeit\handlegameplay.cpp(94): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\vb\git\strikeit\strikeit\handlegameplay.cpp(99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\vb\git\strikeit\strikeit\handlegameplay.cpp(103): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\vb\git\strikeit\strikeit\handlegameplay.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  StrikeIt.vcxproj -> E:\VB\Git\StrikeIt\Debug\StrikeIt.exe
+  StrikeIt.vcxproj -> E:\VB\Git\StrikeIt\Debug\StrikeIt.pdb (Full PDB)
